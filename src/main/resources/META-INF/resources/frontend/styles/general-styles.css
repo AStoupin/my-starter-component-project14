@@ -1,0 +1,16 @@
+html {
+
+}
+
+[theme~="dark"] {
+  --material-primary-text-color: rgb(31, 158, 59);
+  --material-primary-color-50pct: rgba(31, 158, 59, 0.5);
+  --material-primary-color-10pct: rgba(31, 158, 59, 0.1);
+  --material-primary-color: hsl(133, 67%, 37%);
+}
+
+ 
+ .leftLayout {
+ 	position: absolute;
+ 	left: 0;
+ }
